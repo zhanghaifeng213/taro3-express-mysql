@@ -1,0 +1,46 @@
+[2021-11-30T22:02:04.087] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T19:36:54.139] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T19:54:35.628] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T19:55:20.851] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T19:57:54.907] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T20:06:48.890] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T20:08:10.671] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T20:17:29.856] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-03T21:27:33.936] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T07:27:07.760] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T07:51:12.861] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T07:52:54.558] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T07:55:06.346] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T07:58:31.118] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:00:58.953] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:04:51.089] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:06:46.743] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:08:05.576] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:08:15.315] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:08:21.623] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:09:15.760] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:11:19.224] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:11:57.352] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:12:23.795] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T08:13:07.579] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T16:21:37.210] [ERROR] mysqlErr - mysql connect error: Error: Connection lost: The server closed the connection.
+    at Socket.<anonymous> (D:\B\study\imooc\553-taro\资料文件\taro3-express-mysql-master\taro3-express-mysql\node_modules\_mysql2@2.3.3@mysql2\lib\connection.js:101:31)
+    at Socket.emit (node:events:390:28)
+    at TCP.<anonymous> (node:net:687:12)
+    at TCP.callbackTrampoline (node:internal/async_hooks:130:17) {
+  fatal: true,
+  code: 'PROTOCOL_CONNECTION_LOST'
+}
+[2022-06-04T16:21:37.221] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T17:31:49.626] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T19:07:02.834] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T20:28:57.156] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T20:37:36.135] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T20:39:58.055] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-04T20:41:22.676] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-05T10:10:06.304] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-05T10:10:15.178] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-05T10:10:23.957] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-05T10:38:51.546] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-05T10:40:39.439] [ERROR] mysqlErr - mysql connect error: null
+[2022-06-05T10:41:42.289] [ERROR] mysqlErr - mysql connect error: null
